@@ -87,6 +87,14 @@ body {
 	background-size:cover;
 }
 
+.sky {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://live.staticflickr.com/65535/51029584392_bee145d475_k.jpg);
+    background-position: center top;
+    background-size: cover;
+}
+
 
 .navTrigger {
     display: none;
