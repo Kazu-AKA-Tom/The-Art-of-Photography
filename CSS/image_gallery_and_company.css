@@ -79,6 +79,14 @@ body {
 	background-size:cover;
 }
 
+.nature {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://live.staticflickr.com/65535/51102586602_2063a48fb4_k.jpg);
+    background-position: center top;
+	background-size:cover;
+}
+
 
 .navTrigger {
     display: none;
