@@ -389,6 +389,10 @@ body {
 
   
 /*------------------------------------------- contact-form ------------------------------------*/
+body{
+    text-align: center;
+}
+
 
 .contact-title {
     margin-top: 100px;
