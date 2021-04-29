@@ -448,7 +448,7 @@ body {
 
 .hovereffects a.info {
     text-decoration: none;
-    display: flex;
+    display: inline-block;
     text-transform: uppercase;
     color: #fff;
     border: 1px solid #fff;
