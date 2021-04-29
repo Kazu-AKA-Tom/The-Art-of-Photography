@@ -425,7 +425,7 @@ body {
 
 .hovereffects img{
     display: block;
-    position: relative;
+    position: flex;
     -webkit-transition: all 0.4s linear;
     transition: all 0.4s linear;
 
