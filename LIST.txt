@@ -18,14 +18,14 @@ LIST OF WHAT TO DO FOR WEBSITE HTML:
 
 - MAKE THE OTHER HTML PAGES < ----- TO DO
 
-	- PORTFOLIO PAGE <------ COMPLETED
+	- PORTFOLIO PAGE <------ PAGE NEEDS FIXING
 
-	- THEMES FOR PORTFOLIO <------ IN WORDS
+	- THEMES FOR PORTFOLIO <------ COMPLETED
 
                  - MONOCHROME <------ COMPLETED
 
                  - NATURE <----- COMPLETED
 
-                 - OTHERS <----- CURRENTLY BEING WORKED ON
+                 - OTHERS <----- COMPLETED
 
 
