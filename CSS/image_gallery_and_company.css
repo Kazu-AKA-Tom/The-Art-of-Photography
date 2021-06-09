@@ -439,9 +439,8 @@ body {
 }
 
 .gallery {
-    display: block;
+    display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
     width: 90%;
     margin: 0 auto;
 }
