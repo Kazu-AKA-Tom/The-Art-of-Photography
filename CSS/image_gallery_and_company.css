@@ -439,7 +439,7 @@ body {
 }
 
 .gallery {
-    display: flex;
+    display: block;
     justify-content: center;
     flex-wrap: wrap;
     width: 90%;
