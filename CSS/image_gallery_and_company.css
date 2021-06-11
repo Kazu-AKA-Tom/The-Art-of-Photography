@@ -439,7 +439,6 @@ body {
 }
 
 .gallery {
-    transform-origin: 0 0;
     display: flex;
     justify-content: center;
     width: 90%;
