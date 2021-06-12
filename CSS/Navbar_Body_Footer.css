@@ -89,6 +89,16 @@ body {
 	background-size:cover;
 }
 
+.contact_page {
+
+    width: 100%;
+    height: 50vh;
+    background-image: url(https://live.staticflickr.com/65535/51116844992_37252aabb9_k.jpg);
+    background-position: center top;
+	background-size:cover;
+
+}
+
 .page_title {
     position: absolute;
     top: 40%;
@@ -533,6 +543,49 @@ DONT TOUCH OR YOU WILL RUIN IT, PLEASE AND THANK YOU----*/
     bottom: 0;
     opacity: 1;
 }
+
+/*---------------------------   Contact Form  -------------------------------------------------*/
+
+
+form {
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+}
+
+.form-control {
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+input{
+    height: 45px;
+}
+
+form .submit {
+    background: #10c6d3;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+form.submit:hover{
+
+    background-color: turquoise;
+    cursor: pointer;
+}
+
+
+
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
 .footer-basic {
