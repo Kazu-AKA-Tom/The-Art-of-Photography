@@ -436,6 +436,16 @@ body {
     clip-path: polygon(26% 0, 0 0, 0 100%, 0 100%);
 }
 
+.container_1 .clip.clip2 {
+    background: chartreuse;
+    clip-path: polygon(26% 0, 48% 0, 20% 100%, 0 100%);
+}
+
+.container_1 .clip.clip3 {
+    background: coral;
+    clip-path: polygon(66% 0, 48% 0, 20% 100%, 37% 100%);
+}
+
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
 .footer-basic {
