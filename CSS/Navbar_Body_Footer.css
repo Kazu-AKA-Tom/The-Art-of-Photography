@@ -486,6 +486,24 @@ body {
 .container_1 .clip:hover {
     clip-path: polygon(100% 0, 0 0, 0 100%, 100% 100%);
 }
+
+/*------ Text and buttons -----*/
+
+.container_1 .clip .content {
+    position: absolute;
+    bottom: -100%;
+    left: 0;
+    width: 70%;
+    padding: 20px;
+    background: #fff;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.container_1 .clip:hover .content {
+    bottom: 0;
+    opacity: 1;
+}
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
 .footer-basic {
