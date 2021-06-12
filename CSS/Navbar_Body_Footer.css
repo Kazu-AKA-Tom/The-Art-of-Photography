@@ -397,6 +397,7 @@ body {
     letter-spacing: 4px !important;
   }
 
+  .round
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
 * {
@@ -441,7 +442,7 @@ DONT TOUCH OR YOU WILL RUIN IT, PLEASE AND THANK YOU----*/
 .container_1 .clip.clip1{
     background-image: url(https://live.staticflickr.com/65535/51118617987_2b68e7aeef_k.jpg);
     background-size: cover;
-    clip-path: polygon(0 0, 20% 0, 10% 100%, 0% 100%);
+    clip-path: polygon(0 0, 20% 0, 13% 100%, 0% 100%);
     }
 
 
@@ -450,7 +451,7 @@ DONT TOUCH OR YOU WILL RUIN IT, PLEASE AND THANK YOU----*/
 .container_1 .clip.clip2 {
     background-image: url(https://live.staticflickr.com/65535/51102588092_8a0a7e3257_k.jpg);
     background-size: cover;
-    clip-path: polygon(40% 0, 20% 0, 10% 100%, 20% 100%);
+    clip-path: polygon(40% 0, 20% 0, 13% 100%, 20% 100%);
 }
 
 /*-------- Monochrome ----------*/
