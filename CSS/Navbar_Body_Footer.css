@@ -406,6 +406,7 @@ body {
 }
 
 .container_1 {
+    flex-wrap: wrap;
     position: relative;
     width: 800px;
     height: 500px;
@@ -423,7 +424,7 @@ body {
 
 
 .container_1 .clip.clip1{
-    
+
 }
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
