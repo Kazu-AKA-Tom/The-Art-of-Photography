@@ -400,48 +400,7 @@ body {
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-.container_1 {
-    margin: 30px;
-}
-
-.row {
-    width: 100;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    
-}
-
-.image_porfolio {
-    background: #50A7FF;
-    position: relative;
-    flex: 1;
-    max-width: 460px;
-    height: 300px;
-    margin: 20px;
-} 
-
-.image_porfolio img {
-    opacity: 0.8;
-    position: relative;
-    vertical-align: top;
-    transition-property: opacity;
-}
-
-.image_porfolio:hover img{
-    opacity: 1;
-}
-
-.image_porfolio .details {
-    z-index: 1;
-    position: absolute;
-}
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
