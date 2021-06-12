@@ -430,34 +430,45 @@ body {
     transition: 0.5s;
 }
 
+/*-------- Winter ----------*/
 
 .container_1 .clip.clip1{
-    background: #f00;
+    background-image: url(https://live.staticflickr.com/65535/51118617987_2b68e7aeef_k.jpg);
     clip-path: polygon(26% 0, 0 0, 0 100%, 0 100%);
 }
 
+/*-------- Nature ----------*/
+
 .container_1 .clip.clip2 {
-    background: chartreuse;
+    background-image: url(https://live.staticflickr.com/65535/51102588092_8a0a7e3257_k.jpg);
     clip-path: polygon(26% 0, 48% 0, 20% 100%, 0 100%);
 }
 
+/*-------- Monochrome ----------*/
+
 .container_1 .clip.clip3 {
-    background: coral;
+    background-image: url(https://live.staticflickr.com/65535/51103592095_d62752ae1b_k.jpg);
     clip-path: polygon(66% 0, 48% 0, 20% 100%, 37% 100%);
 }
 
+/*-------- Architecture ----------*/
+
 .container_1 .clip.clip4 {
-    background: blue;
+    background-image: url(https://live.staticflickr.com/65535/51119190901_a3471fe260_k.jpg);
     clip-path: polygon(66% 0, 85% 0, 57% 100%, 37% 100%);
 }
 
+/*-------- Sky ----------*/
+
 .container_1 .clip.clip5 {
-    background: red;
+    background-image: url(https://live.staticflickr.com/65535/51102700812_7829f743e1_k.jpg);
     clip-path: polygon(100% 0, 85% 0, 57% 100%, 74% 100%);
 }
 
+/*-------- Other ----------*/
+
 .container_1 .clip.clip6 {
-    background: blue;
+    background-image: url(https://live.staticflickr.com/65535/51117159774_bfa3142402_k.jpg);
     clip-path: polygon(100% 0, 100% 0, 100% 100%, 74% 100%);
 }
 
