@@ -399,8 +399,32 @@ body {
 
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container_1 {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background: #222;
+}
+
+.container_1 .clip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+}
 
 
+.container_1 .clip.clip1{
+    
+}
 
 /*-------------------------------------------  Footer  ----------------------------------------*/
   
