@@ -438,7 +438,16 @@ body {
     letter-spacing: 4px !important;
   }
 
-  .round
+/*---------------------------------------------- Image Avatar  -----------------------------------*/
+
+.avatar {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+  }
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
 * {
