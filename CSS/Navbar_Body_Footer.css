@@ -451,9 +451,12 @@ body {
     border-radius: 50%;
   }
 
-  .image_map {
-    display: inline-block;
-    margin: 15px 10px;
+ 
+  .map {
+      
+    margin-left: auto;
+    margin-right: auto;
+
   }
   
 /*------------------------------------------- Image Gallery ------------------------------------*/
